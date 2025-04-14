@@ -7,7 +7,7 @@ Mental health is as vital as physical health, yet many people lack access to dai
 
 It leverages advanced language models (LLMs) to assist with managing stress, regulating emotions, practicing mindfulness, and building healthy coping strategies—all in a private, judgment-free space.
 
-It also provides an personalised structured program for user to cure.
+It also provides a personalised structured program for the user to achieve a recovery.
 
 
 ### Technologies Used
