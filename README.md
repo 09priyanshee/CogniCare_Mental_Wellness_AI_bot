@@ -1,4 +1,4 @@
-# CogniCare_Mental_Wellness_AIBot
+# CogniCare_Mental_Wellness_AI_Bot
 
 ## *CogniCare: Your Partner in Mental Wellness* 
 
