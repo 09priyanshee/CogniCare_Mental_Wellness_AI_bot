@@ -3,7 +3,7 @@
 ## *CogniCare: Your Partner in Mental Wellness* 
 
 ### Why This Project is Important
-Mental health is as vital as physical health, yet many people lack access to daily support and guidance. CogniCare is a therapy chatbot designed to provide empathetic, actionable, and accessible mental health support to anyone, anytime. 
+Mental health is as vital as physical health, yet many people lack access to daily support and guidance. CogniCare is a therapy AI bot designed to provide empathetic, actionable, and accessible mental health support to anyone, anytime. 
 It leverages advanced language models (LLMs) to assist with managing stress, regulating emotions, practicing mindfulness, and building healthy coping strategies—all in a private, judgment-free space.
 It also provides an perosnalised structured program for user to cure.
 
