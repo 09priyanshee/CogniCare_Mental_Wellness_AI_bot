@@ -1,4 +1,4 @@
-# CogniCare_Mental_Wellness_Chatbot
+# CogniCare_Mental_Wellness_AIBot
 
 ## *CogniCare: Your Partner in Mental Wellness* 
 
@@ -48,7 +48,7 @@ It also provides an perosnalised structured program for user to cure.
 
 
 ### Directory Explanation
-CogniCare Chatbot
+CogniCare AIBot
 
 
 <img width="582" alt="image" src="https://github.com/user-attachments/assets/e88e98bf-004e-4d00-b0b6-49766a22432f" />
